@@ -836,3 +836,10 @@ Thanks for reading, and happy coding!
 <video width="320" height="240" controls>
   <source src="finalproduct.mp4" type="video/mp4">
 </video> 
+
+## References
+
+1. SDL2 Development Library. Simple DirectMedia Layer. https://www.libsdl.org/
+2. nlohmann. JSON for Modern C++. GitHub. https://github.com/nlohmann/json
+3. Nystrom, R. *Game Programming Patterns: Component*. https://gameprogrammingpatterns.com/component.html
+5. OpenGL.  The Industry's Foundation for High Performance Graphics. https://www.opengl.org/
