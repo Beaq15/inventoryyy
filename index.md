@@ -843,3 +843,4 @@ Thanks for reading, and happy coding!
 2. nlohmann. JSON for Modern C++. GitHub. https://github.com/nlohmann/json
 3. Nystrom, R. *Game Programming Patterns: Component*. https://gameprogrammingpatterns.com/component.html
 5. OpenGL.  The Industry's Foundation for High Performance Graphics. https://www.opengl.org/
+6. https://gigi.nullneuron.net/gigilabs/sdl2-drag-and-drop/ - practical implementation guide showing SDL2's event-based approach with mouse button handling and offset tracking
